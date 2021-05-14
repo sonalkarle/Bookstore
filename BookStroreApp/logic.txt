@@ -1,5 +1,0 @@
---Admin 
---Customer= CustomerAddress  Customer order  
-           orderAddress  order book  cart wishlist
---Book= Author Cart Wishlist OrderBook
---customerorder = order Address order book
